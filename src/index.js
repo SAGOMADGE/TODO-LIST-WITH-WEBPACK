@@ -11,4 +11,4 @@ renderTasks();
 // навешиваем события одной функцией
 initHandlers();
 
-console.log("Scout is here");
+console.log("Scout is here, multiple commits on different branches");
