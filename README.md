@@ -43,7 +43,7 @@ Bash
 cd TODO-LIST-WITH-WEBPACK
 Установите зависимости:
 
-Bash
+Bash.
 
 npm install
 Запустите режим разработки:
