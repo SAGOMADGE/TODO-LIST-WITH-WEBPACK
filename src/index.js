@@ -10,3 +10,5 @@ renderTasks();
 
 // навешиваем события одной функцией
 initHandlers();
+
+console.log("Scout is here");
